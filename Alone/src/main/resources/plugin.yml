@@ -1,0 +1,5 @@
+name: Alone
+version: '${project.version}'
+main: me.xplore.alone.Alone
+api-version: 1.19
+description: Makes you alone type shi
